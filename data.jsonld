@@ -52,16 +52,16 @@
   },
   "body": {
     "abstract": {
-      "@value": "Proposal Abstract"
+      "@value": "Abstract text"
     },
     "motivation": {
-      "@value": "Proposal Motivation"
+      "@value": "Motivation text"
     },
     "rationale": {
-      "@value": "Proposal Rationale"
+      "@value": "Rationale text"
     },
     "title": {
-      "@value": "Proposal Title (teske00)"
+      "@value": "Test proposal (teske00)"
     }
   }
 }
