@@ -52,27 +52,17 @@
   },
   "body": {
     "abstract": {
-      "@value": "Abstract text"
+      "@value": "Abstract"
     },
     "motivation": {
-      "@value": "Motivation text"
+      "@value": "Motivation"
     },
     "rationale": {
-      "@value": "Rationale text"
+      "@value": "Rationale"
     },
-    "references": [
-      {
-        "@type": "Other",
-        "label": {
-          "@value": "Google"
-        },
-        "uri": {
-          "@value": "https://www.google.com/"
-        }
-      }
-    ],
+    "references": [],
     "title": {
-      "@value": "Test proposal #5 (teske00)"
+      "@value": "Test govtool validateMetadata in PDF"
     }
   }
 }
