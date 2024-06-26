@@ -60,9 +60,19 @@
     "rationale": {
       "@value": "Rationale"
     },
-    "references": [],
+    "references": [
+      {
+        "@type": "Other",
+        "label": {
+          "@value": "Google"
+        },
+        "uri": {
+          "@value": "https://www.google.com/"
+        }
+      }
+    ],
     "title": {
-      "@value": "Test #2"
+      "@value": "Test (teske)"
     }
   }
 }
